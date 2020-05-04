@@ -7,5 +7,4 @@ Pandas, Matplot.lib
 
 ## Graphical Plot
 
-![COVIDGraph]
-(COVIDGraph.png)
+![COVIDGraph](COVIDGraph.png)
