@@ -6,4 +6,4 @@ The following code contains a small project which helps us plot a graph of vario
 Pandas, Matplot.lib
 
 ## Graphical Plot
-<img src="/html/images/test.png" alt="COVID Graphical Representation" widht="200 height="80">
+<img src="COVIDGraph.png" alt="COVID Graphical Representation" widht="200 height="80">
